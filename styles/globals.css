@@ -5,11 +5,13 @@ body {
   color: #333;
   font-family: "Nunito";
 }
+
 a {
   color: #333;
   text-decoration: none;
   font-size: larger;
 }
+
 .content {
   max-width: 960px;
   margin: 0 auto;

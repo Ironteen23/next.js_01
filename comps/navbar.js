@@ -24,7 +24,7 @@ export default function Navbar() {
         <Link href="/about"><a>About</a></Link>
         <a></a>
 
-        <Link href="/ninjas"><a>Turfs</a></Link>
+        <Link href="/ninjas"><a>Trainers</a></Link>
         <a></a>
         <a></a>
         <a></a>
