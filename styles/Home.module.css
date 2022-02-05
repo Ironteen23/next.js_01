@@ -2,9 +2,11 @@
   color: #333;
   padding-bottom: 20px;
   text-align: center;
+  font-weight: 1200;
 }
 .text {
   color: #777;
+  font-size: xx-large;
 }
 .btn {
   display: block;
@@ -15,4 +17,8 @@
   border-radius: 4px;
   color: white;
   text-align: center;
+}
+
+ .b {
+      background-image: 'https://i.pinimg.com/736x/81/93/7a/81937ad7cc2cb895b3af2cf1533b8750--collage-fitness-quotes.jpg';
 }

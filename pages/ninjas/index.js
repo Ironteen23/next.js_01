@@ -16,7 +16,9 @@ export const getStaticProps= async()=>{
 const Ninjas = ({names}) => {
     return ( 
         <div>
-            <h1>ALL NINJAS</h1>
+            <h1>ALL AVAILABLE TRAINERS</h1>
+            <a></a>
+            <h2 className={styles.tb}>Click To View Their contact details</h2>
             {
                 names.map(ninja =>
                     (

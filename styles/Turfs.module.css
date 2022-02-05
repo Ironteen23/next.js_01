@@ -8,3 +8,7 @@
   .single:hover {
     border-left: 8px solid #4979ff;
   }
+
+ .tb {
+    color: rgb(236, 71, 42);
+  }
