@@ -8,6 +8,7 @@ body {
 a {
   color: #333;
   text-decoration: none;
+  font-size: larger;
 }
 .content {
   max-width: 960px;
@@ -43,9 +44,11 @@ nav li.btn {
   border-radius: 30px;
   font-weight: 600;
   color: var(--primary);
+  background-color: rgb(72, 211, 107);
   cursor: pointer;
 }
 nav li.btn:hover {
-  color: white;
+  color: rgb(31, 223, 213);
   background: var(--primary);
+  background-color: rgb(230, 30, 213);
 }

@@ -15,10 +15,24 @@ export default function Navbar() {
             
         </div>
         <Link href="/"><a>Home</a></Link>
+        <a>
+        </a>
+        
         <Link href="/about"><a>About</a></Link>
+        <a></a>
+
         <Link href="/ninjas"><a>Turfs</a></Link>
+        <a></a>
+        <a></a>
+        <a></a>
+
         <li onClick={login} className="btn">Login/Signup</li>
+        <a></a>
+
         <li onClick={logout} className="btn">Logout</li>
+
+        <a></a>
+        <a></a>
 
         </nav>
      );
