@@ -35,3 +35,17 @@ footer {
   color: #777;
   border-top: 1px solid #eaeaea;
 }
+
+
+nav li.btn {
+  padding: 10px 16px;
+  border: 2px solid var(--primary);
+  border-radius: 30px;
+  font-weight: 600;
+  color: var(--primary);
+  cursor: pointer;
+}
+nav li.btn:hover {
+  color: white;
+  background: var(--primary);
+}
