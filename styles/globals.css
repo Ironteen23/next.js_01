@@ -29,14 +29,7 @@ nav a {
 nav .logo {
   margin-right: auto;
 }
-footer {
-  display: block;
-  text-align: center;
-  padding: 30px 0;
-  margin-top: 60px;
-  color: #777;
-  border-top: 1px solid #eaeaea;
-}
+
 
 
 nav li.btn {
@@ -63,3 +56,14 @@ nav li {
   display: inline-block;
   margin-left: 16px;
 }
+
+.fbody{
+  line-height: 1.5;
+  font-family: 'Poppins', sans-serif;
+}
+
+.footer{
+  background-color:#480099;
+  padding: 70px 50px;
+}
+

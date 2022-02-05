@@ -11,18 +11,24 @@ const About = () => {
      </Head>
         <div>
             <center ><h1 className={styles.tt}>ABOUT US </h1>
-            <a></a>
+          <br></br>
+            
 
             <p className={styles.ba}>IN THIS PROJECT WE HAVE USED Next.js </p>
             <p className={styles.ba}>WE HAVE IMPLEMENT GENERAL CSS ALONG WITH JS </p>
             <p className={styles.ba}>ALSO THE PAGE OF EACH TRAINER IS NOT IMPLEMENTED MANUALLY BUT IT HAS BEEN DONE BY FETCHING THE DATA FROM A STATIC JSON API</p>
             <p className={styles.ba}>THE LOGIN SINGUP SYSTEM HAS BEEN DONE USING NEXT.JS AND NETLIFY FUNCTIONS </p>
             </center>
-            <a></a>
-            <a></a>
+          <br></br>
+          <br></br>
+            
 
             <h2> &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;   HEM MAHIMKAR    &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; KINSHU JAIN</h2>                                                                         
             <h2> &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; BT20CSE174  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  BT20CSE116</h2>
+          <br></br>
+          <br></br>
+
+
 
         </div>
         </>
