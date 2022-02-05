@@ -52,3 +52,13 @@ nav li.btn:hover {
   background: var(--primary);
   background-color: rgb(230, 30, 213);
 }
+
+nav ul {
+  margin-left: auto;
+  list-style-type: none;
+  padding: 0;
+}
+nav li {
+  display: inline-block;
+  margin-left: 16px;
+}
