@@ -18,6 +18,8 @@ const About = () => {
             <p className={styles.ba}>WE HAVE IMPLEMENT GENERAL CSS ALONG WITH JS </p>
             <p className={styles.ba}>ALSO THE PAGE OF EACH TRAINER IS NOT IMPLEMENTED MANUALLY BUT IT HAS BEEN DONE BY FETCHING THE DATA FROM A STATIC JSON API</p>
             <p className={styles.ba}>THE LOGIN SINGUP SYSTEM HAS BEEN DONE USING NEXT.JS AND NETLIFY FUNCTIONS </p>
+            <p className={styles.ba}>WE CAN SEE THE USER DATA THROUGH NETLIFY </p>
+
             <p className={styles.ba}>WE HAVE FOCUSED MORE ON LEARNING NEW LANGUAGE AND FUNCTIONS </p>
             </center>
           <br></br>
