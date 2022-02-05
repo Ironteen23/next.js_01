@@ -18,6 +18,7 @@ nav {
   margin: 10px auto 80px;
   padding: 10px 0;
   display: flex;
+  background: #426aa7;
   justify-content: flex-end;
   align-items: flex-end;
   border-bottom: 1px solid rgb(59, 55, 55);
