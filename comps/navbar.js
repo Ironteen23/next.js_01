@@ -5,7 +5,7 @@ const Navbar = () => {
     return ( 
         <nav>
         <div className="logo">
-            <Image src="/TurFIT Logo.png" width={100} height={90}/>
+            <Image src="/TurFIT_Logo.png" width={100} height={90}/>
             
         </div>
         <Link href="/"><a>Home</a></Link>
